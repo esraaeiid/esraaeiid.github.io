@@ -26,6 +26,7 @@ Here’s what I accomplished:
 - **Swift Development**: Discovered how to develop and deploy Lambda functions in Swift using the SwiftPM archive plugin and SwiftPM deploy plugin.
 - **Opened a [Discussion](https://forums.swift.org/t/add-a-deploy-swiftpm-plugin-and-a-swift-based-dsl-to-the-swift-runtime-for-aws-lambda/71564)**: Engaged with the Swift community to discuss the project goals and proposed modifications.
 
+![diagram](/assets/img/projectScope.png)
 These activities helped me become familiar with the overall architecture of the project, SwiftPM plugins, and Swift command line tools.
 
 
