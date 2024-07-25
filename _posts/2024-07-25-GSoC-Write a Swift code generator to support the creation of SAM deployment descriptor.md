@@ -28,7 +28,7 @@ Here’s what I accomplished:
 
 These activities helped me become familiar with the overall architecture of the project, SwiftPM plugins, and Swift command line tools.
 
-![Screenshot 2024-07-25 at 3.50.15 PM.png](GSoC-Add%20a%20deploy%20SwiftPM%20plugin%20and%20a%20Swift-based%20a6f42bc811e449f58772c792b6b0f1ee/Screenshot_2024-07-25_at_3.50.15_PM.png)
+
 
 ## Week 3 & 4:
 
