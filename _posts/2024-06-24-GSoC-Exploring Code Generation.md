@@ -4,7 +4,7 @@
 
 The main goal here is transforming [JSON Schema](https://github.com/aws/serverless-application-model/blob/develop/samtranslator/validator/sam_schema/schema.json) to Swift: Generate Swift Structs Based on Complex JSON Schema Specifications:
 The process involves reading a JSON Schema and generating Swift structs that conform to the detailed specifications of the given JSON Schema.
-To reach our objectives, we evaluated three Swift code generation techniques: Mustache templates, the OpenAPI Swift generator, and the swift Syntax library. This document provides a brief overview of each technique and proposes a solution for use in this project.
+To reach our objectives, we evaluated three Swift code generation techniques: Mustache templates, the OpenAPI Swift generator, and the swift Syntax library. This article provides a brief overview of each technique and proposes a solution for use in this project as part of google summer of code.
 
 ---
 
