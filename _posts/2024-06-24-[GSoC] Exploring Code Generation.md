@@ -156,8 +156,8 @@ public struct Example: Decodable, Equatable {
 
 - Swift AST explorer: [AST](https://swift-ast-explorer.com/)
 - CodeGenerationUsingSwiftSyntaxBuilder: [Example](https://github.com/apple/swift-syntax/blob/main/Examples/Sources/CodeGenerationUsingSwiftSyntaxBuilder/CodeGenerationUsingSwiftSyntaxBuilder.swift)
-- SwiftSyntax Documentation: ****[Doc](https://swiftpackageindex.com/apple/swift-syntax/508.0.1/documentation/swiftsyntax)
-- Working with SwiftSyntax**:** [Github](https://github.com/apple/swift-syntax/blob/main/Sources/SwiftSyntax/Documentation.docc/Working%20with%20SwiftSyntax.md)
+- SwiftSyntax Documentation: [Doc](https://swiftpackageindex.com/apple/swift-syntax/508.0.1/documentation/swiftsyntax)
+- Working with SwiftSyntax: [Github](https://github.com/apple/swift-syntax/blob/main/Sources/SwiftSyntax/Documentation.docc/Working%20with%20SwiftSyntax.md)
 - Discussions Generating Code using SwiftSyntax: [Swift-Forums](https://forums.swift.org/search?q=space%20%23swift-users%20tags%3Aswift-syntax)
 - SwiftSyntaxBuilder: [Swift-Forums](https://forums.swift.org/t/announcing-swiftsyntaxbuilder/56565)
 - Examples using SwiftSyntaxBuilder: [Github](https://github.com/apple/swift-syntax/tree/main/Tests/SwiftSyntaxBuilderTest)

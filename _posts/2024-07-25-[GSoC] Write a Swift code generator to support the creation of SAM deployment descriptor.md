@@ -51,9 +51,9 @@ Main tasks included:
 - **Addressing Challenges with SAM Templates**: We tackled specific challenges related to SAM templates, using the [SAM schema](https://github.com/aws/serverless-application-model/blob/develop/samtranslator/validator/sam_schema/schema.json) as a reference.
 - **Unit Testing**: Implemented unit tests for each case to ensure the JSON Schema Reader is stable and reliable, setting a solid foundation for the code generation phase.
 
-You can review the code developed during these weeks in the following branches:
-[branch #1](https://github.com/esraaeiid/swift-aws-lambda-sam-dsl/commits/week-21)  
-[branch #2](https://github.com/esraaeiid/swift-aws-lambda-sam-dsl/commits/week-22)
+You can review the code developed during these weeks in the following branches: \
+→ [branch #1](https://github.com/esraaeiid/swift-aws-lambda-sam-dsl/commits/week-21) \
+→ [branch #2](https://github.com/esraaeiid/swift-aws-lambda-sam-dsl/commits/week-22) 
 
 This work was essential for establishing a solid JSON Schema reader, which will be used in the subsequent phases of our project.
 
@@ -80,13 +80,12 @@ The [Swift OpenAPI](https://github.com/apple/swift-openapi-generator) tool gener
 
 Based on community feedback from the [Swift Forums](https://forums.swift.org/t/code-generation-swift-syntax-or-mustache/72131) and the examples we reviewed, we decided to proceed with SwiftSyntax. It’s better suited for generating Swift structs from complex JSON schema specifications. Although SwiftSyntax has some challenges, they are manageable with careful planning and iterative development.
 
-You can review the code developed during these weeks in the following branches:
-[branch #1](https://github.com/esraaeiid/swift-aws-lambda-sam-dsl/commits/week-23)  [](https://github.com/esraaeiid/swift-aws-lambda-sam-dsl/commit/8a6464a6cf956bf60112e2f9dbd4450cb1028546) Swift Hummingbird Mustache
-[](https://github.com/esraaeiid/swift-aws-lambda-sam-dsl/commit/8a6464a6cf956bf60112e2f9dbd4450cb1028546)[branch #2](https://github.com/esraaeiid/swift-aws-lambda-sam-dsl/commits/week-24)  Swift Syntax
-[](https://github.com/esraaeiid/swift-aws-lambda-sam-dsl/commit/6ef7844f23db0647786659178fd55a97cd2f5017)[branch #3](https://github.com/esraaeiid/swift-aws-lambda-sam-dsl/commits/week-25)  Swift OpenAPI
-[](https://github.com/esraaeiid/swift-aws-lambda-sam-dsl/commit/9f577bda92150442fa6f01903bb8a27ce3c2f93d)
+You can review the code developed during these weeks in the following branches: \
+→ [branch #1](https://github.com/esraaeiid/swift-aws-lambda-sam-dsl/commits/week-23) Swift Hummingbird Mustache \
+→ [branch #2](https://github.com/esraaeiid/swift-aws-lambda-sam-dsl/commits/week-24)  Swift Syntax \
+→ [branch #3](https://github.com/esraaeiid/swift-aws-lambda-sam-dsl/commits/week-25)  Swift OpenAPI
 
-## Week 7 & 8:
+## Week 8 & 9:
 
 The objective for these weeks was to define a coding strategy for generating code using Swift Syntax, focusing first on type definitions (structs and enums) without considering behaviors (functions and code) yet.
 
@@ -118,10 +117,10 @@ Here’s an example snippet of the code:
 
 You can review the code developed during these weeks in the following branches:
 
-[branch #1](https://github.com/esraaeiid/swift-aws-lambda-sam-dsl/commits/week-26)
-[branch #2](https://github.com/esraaeiid/swift-aws-lambda-sam-dsl/commits/week-27)
+→ [branch #1](https://github.com/esraaeiid/swift-aws-lambda-sam-dsl/commits/week-26) \
+→ [branch #2](https://github.com/esraaeiid/swift-aws-lambda-sam-dsl/commits/week-27)
 
-## Week 9 & 10:
+## Week 10 & 11:
 
 During Weeks 9 and 10, we focused on finalizing the code generation to ensure 100% of the data definitions were generated. We also made sure that the generated code compiles successfully.
 
@@ -151,17 +150,17 @@ Here’s an example snippet of the code:
 
 You can review the code developed during these weeks in the following branch:
 
-[branch #1](https://github.com/esraaeiid/swift-aws-lambda-sam-dsl/commits/week-28)
-[](https://github.com/esraaeiid/swift-aws-lambda-sam-dsl/commits/week-26)
+→ [branch #1](https://github.com/esraaeiid/swift-aws-lambda-sam-dsl/commits/week-28)
 
-## Week  11:
+
+## Week  12:
 
 The final week of the project focused on cleaning up the code before submitting it as a pull request (PR) that has now been merged into the main repository.
 
 You can review the code developed during this week in the following branches:
 
-- [Branch #1: Last Week](https://github.com/esraaeiid/swift-aws-lambda-sam-dsl/commits/week-30)
-- [Branch #2: Merged Code](https://github.com/sebsto/swift-aws-lambda-sam-dsl/tree/esraa/generator/Sources/AWSLambdaDeploymentDescriptorGenerator)
+→ [branch #1: Last Week](https://github.com/esraaeiid/swift-aws-lambda-sam-dsl/commits/week-30) \
+→ [branch #2: Merged Code](https://github.com/sebsto/swift-aws-lambda-sam-dsl/tree/esraa/generator/Sources/AWSLambdaDeploymentDescriptorGenerator)
 
 ## What's left to do?
 
