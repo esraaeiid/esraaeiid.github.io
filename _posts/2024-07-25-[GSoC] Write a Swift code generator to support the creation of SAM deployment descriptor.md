@@ -13,7 +13,7 @@ Deploying AWS Lambda functions using AWS SAM (Serverless Application Model) can 
 
 To solve this problem, my Google Summer of Code project for 2024 focuses on automatically generating the AWSLambdaDeploymentDescriptor library based on the SAM template definition. This generated code will be used by the Swift-based DSL to create the SAM YAML templates needed to deploy Lambda functions and their dependencies to AWS.
 
-In this article, I’ll share the progress Sébastien Stormacq (my mentor) and I made over the past few weeks, the challenges we encountered, and the remaining steps to complete this proof of concept (POC).
+In this article, I’ll share the progress Sébastien Stormacq (my mentor) and I made over the past few weeks, the challenges we encountered, and the remaining steps to complete this implementation.
 
 Main repository: [swift-aws-lambda-sam-dsl](https://github.com/sebsto/swift-aws-lambda-sam-dsl)
 
@@ -64,7 +64,7 @@ Swift Hummingbird Mustache, Swift Syntax and Swift OpenAPI
 
 To gather insights on which method might be best for our use case, I initiated a [discussion](https://forums.swift.org/t/code-generation-swift-syntax-or-mustache/72131/11) on the Swift Forums. The feedback and examples provided by the community were instrumental in developing our proof of concept.
 
-As stated [here](https://esraaeiid.github.io/posts/Exploring-Code-Generation-Swift/), in the evaluation of tools I made later, here’s a summary of each technique:
+As stated [here](https://esraaeiid.github.io/posts/GSoC-Exploring-Code-Generation/), in the evaluation of tools I made later, here’s a summary of each technique:
 
 **Swift Mustache**
 

@@ -1,6 +1,6 @@
 ---
 title: "[gsoc] Exploring Code Generation: Swift Syntax, Swift Mustache, and Swift OpenAPI"
-date: 2024-07-25
+date: 2024-06-24
 categories: [iOS, development]
 tags: [gsoc, swift, swift on server]
 mermaid: true
