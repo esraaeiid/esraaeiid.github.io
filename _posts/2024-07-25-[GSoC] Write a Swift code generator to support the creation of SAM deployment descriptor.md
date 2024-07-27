@@ -122,7 +122,7 @@ You can review the code developed during these weeks in the following branches:
 
 ## Week 10 & 11:
 
-During Weeks 9 and 10, we focused on finalizing the code generation to ensure 100% of the data definitions were generated. We also made sure that the generated code compiles successfully.
+During Weeks 10 and 11, we focused on finalizing the code generation to ensure 100% of the data definitions were generated. We also made sure that the generated code compiles successfully.
 
 Here’s an example snippet of the code:
 
