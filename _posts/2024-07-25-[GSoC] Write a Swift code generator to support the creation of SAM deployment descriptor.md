@@ -160,8 +160,8 @@ The final week of the project focused on cleaning up the code before submitting 
 You can review the code developed during this week in the following branches:
 
 → [branch #1: Last Week](https://github.com/esraaeiid/swift-aws-lambda-sam-dsl/commits/week-30) \
-→ [branch #2: Merged Code](https://github.com/sebsto/swift-aws-lambda-sam-dsl/pull/9) \
-→ [branch #3: Merged Code](https://github.com/sebsto/swift-aws-lambda-sam-dsl/pull/8)
+→ [branch #2: Merged Code](https://github.com/sebsto/swift-aws-lambda-sam-dsl/tree/esraa/generator/Sources/AWSLambdaDeploymentDescriptorGenerator) \
+→ [PR #1](https://github.com/sebsto/swift-aws-lambda-sam-dsl/pull/8), [PR #2](https://github.com/sebsto/swift-aws-lambda-sam-dsl/pull/9)
 
 
 ## What's left to do?
